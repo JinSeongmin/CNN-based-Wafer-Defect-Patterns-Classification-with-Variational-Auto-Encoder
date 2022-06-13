@@ -27,7 +27,7 @@ The CNNs, an image classification machine learning technique, and VAE to solve d
 
 
 ## Results
-The comparison between three models on validation accuracy : 
+The comparison between three network models on validation accuracy : 
 
 | Network  | Best accuracy (%) | Accuracy (%)   |
 |----------|-------------------|----------------|
