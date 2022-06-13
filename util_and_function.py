@@ -39,10 +39,10 @@ def save_model(names, model, optimizer, acc, epoch, acc_hist, train_loss_hist, t
         "loss_test_hist": test_loss_hist,
     }
     
-    if not os.path.isdir("./CHECKPOINT"):
-        os.mkdir("./CHECKPOINT")
+    if not os.path.isdir("./Checkpoint"):
+        os.mkdir("./Checkpoint")
                  
-    torch.save(state, "./CHECKPOINT/{}.pth".format(names))
+    torch.save(state, "./Checkpoint/{}.pth".format(names))
     
 
 
