@@ -33,7 +33,9 @@ Our model achieves the following performance on:
 | CNN2     | 99.14             | 99.07 ± 0.05   |
 
 *MLP : 128-128-9 
+
 *CNN1 : 64C5-MP2-128C5-MP2-9
+
 *CNN2 : 64C5-128C5-MP2-256C5-MP2-256-9
 
 
