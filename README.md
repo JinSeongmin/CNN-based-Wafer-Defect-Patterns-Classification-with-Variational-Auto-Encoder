@@ -4,10 +4,12 @@ The purpose is classifying defects on wafers, which are key components in the se
 The CNNs, an image classification machine learning technique, and VAE to solve data imbalance were used.
 
 
+
 ## Dataset
 [WM-811K wafer map](https://www.kaggle.com/datasets/qingyi/wm811k-wafer-map)
 
 *If your goal is to check the reproducibility of this code, you can use preprocessed data in the 'Dataset' directory.
+
 
 
 ## Parser
@@ -21,6 +23,7 @@ The CNNs, an image classification machine learning technique, and VAE to solve d
 | Model_lr                   | Float value        | Network model learning rate            |
 | Model_epochs               | Int value          | Network model training epochs          |
 | Model_batch_size           | Int value          | Netowrk model batch size               |
+
 
 
 ## Results
