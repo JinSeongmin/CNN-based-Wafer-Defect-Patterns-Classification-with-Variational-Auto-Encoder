@@ -8,7 +8,7 @@ The CNNs, an image classification machine learning technique, and VAE to solve d
 ## Dataset
 [WM-811K wafer map](https://www.kaggle.com/datasets/qingyi/wm811k-wafer-map)
 
-*If your goal is to check the reproducibility of this code, you can use preprocessed data in the 'Dataset' directory.
+*If your objective is to check the reproducibility of this code, you can use preprocessed data in the 'Dataset' directory.
 
 
 
