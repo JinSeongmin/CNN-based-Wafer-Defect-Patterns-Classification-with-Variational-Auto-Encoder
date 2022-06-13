@@ -1,5 +1,5 @@
-# CNN-based-Wafer-Defect-Patterns-Recognition-with-Variational-Auto-Encoder
-This repository is implementation of CNN-based-Wafer-Defect-Patterns-Recognition-with-Variational-Auto-Encoder.
+# CNN-based-Wafer-Defect-Patterns-Classification-with-Variational-Auto-Encoder
+This repository is implementation of CNN-based-Wafer-Defect-Patterns-Classification-with-Variational-Auto-Encoder.
 The purpose is classifying defects on wafers, which are key components in the semiconductor industry.
 The CNNs, an image classification machine learning technique, and VAE to solve data imbalance were used.
 
