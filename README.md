@@ -22,7 +22,7 @@ The CNNs, an image classification machine learning technique, and VAE to solve d
 | Network                    | MLP / CNN1 / CNN2  | Which network to use for classifying   |
 | Model_lr                   | Float value        | Network model learning rate            |
 | Model_epochs               | Int value          | Network model training epochs          |
-| Model_batch_size           | Int value          | Netowrk model batch size               |
+| Model_batch_size           | Int value          | Network model batch size               |
 
 
 
