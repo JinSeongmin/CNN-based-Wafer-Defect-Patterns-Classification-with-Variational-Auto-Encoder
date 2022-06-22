@@ -31,11 +31,11 @@ The comparison between three network models on validation accuracy :
 
 | Network  | Best accuracy (%) | Accuracy (%)   |
 |----------|-------------------|----------------|
-| MLP      | 95.16             | 95.10 ± 0.05   |
-| CNN1     | 96.43             | 96.27 ± 0.13   |
-| CNN2     | 99.14             | 99.07 ± 0.05   |
+| MLP      | 92.34             | 92.07 ± 0.31   |
+| CNN1     | 93.84             | 93.74 ± 0.07   |
+| CNN2     | 98.32             | 97.93 ± 0.33   |
 
-*MLP : 128-128-9   
+*MLP : 256-128-9   
 *CNN1 : 64C5-MP2-128C5-MP2-9  
 *CNN2 : 64C5-128C5-MP2-256C5-MP2-256-9  
 
